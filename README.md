@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight-duo&locale=vi&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight-duo&locale=vi&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+  </a>
+</p>
