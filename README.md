@@ -1,25 +1,57 @@
-## Hi there 👋
+## 👋 Hi there, I’m Hieu Tran!
 
-<!--
-**shinki04/shinki04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **self-taught developer** who loves solving real problems with code.  
+Currently focused on building a **personal e-commerce website** with **React, Zustand, and Node.js**.
 
-<!-- Here are some ideas to get you started: -->
+### 🚀 What I’m Up To
 
-- 🔭 I’m currently working on a personal e-commerce website with React, Zustand, and Node.js.
-- 🌱 I’m currently learning Node.js, MongoDB, data structures, and algorithms to become a full-stack developer.
-- 👯 I’m looking to collaborate on open-source projects or small real-world apps to gain more experience.
-- 🤔 I’m looking for help with system design and best practices in large-scale applications.
-- 💬 Ask me about learning how to build something from scratch as a self-learner.
-- 📫 How to reach me: [hieutran1142004@gmail.com]
+- 🔭 Working on: A full-featured e-commerce web app (cart, filter, auth, dashboard...).
+- 🌱 Learning: Node.js, MongoDB, Data Structures & Algorithms to become a full-stack developer.
+- 👯 Looking to collaborate on: Small real-world projects or open-source contributions.
+- 🤔 Looking for help with: System design and scalable architecture for large apps.
+- 💬 Ask me about: Building things from scratch as a self-learner or deploying fullstack apps.
+- 📫 Reach me at: hieutran1142004@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I learn best by doing — most of my projects come from real problems I want to solve.
+- ⚡ Fun fact: I learn best by doing — most of my projects solve real needs I encounter.
+
+
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieutranakira) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hieutran1142004@gmail.com)  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Zustand](https://img.shields.io/badge/zustand-%231F2937.svg?style=for-the-badge&logo=zustand&logoColor=%23F9FAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Tools & Platforms:**  
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shinki04&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
-![Shinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinki04&show_icons=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
-<br/>
+---
 
+## 💡 Quote I Live By
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<!--
+Feel free to connect, fork, or collab. I'm always open to learning together!
+-->
