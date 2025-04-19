@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight-duo&locale=vi&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shinki04&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
   </a>
 </p>
 
-![Shinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinki04&show_icons=true&theme=tokyonight-duo&locale=vi&date_format=j%2Fn%5B%2FY%5D)
+![Shinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinki04&show_icons=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
 <br/>
 
