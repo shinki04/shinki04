@@ -1,7 +1,6 @@
 ## 👋 Hi there, I’m Hieu Tran!
 
 I'm a passionate **self-taught developer** who loves solving real problems with code.  
-Currently focused on building a **personal e-commerce website** with **React, Zustand, and Node.js**.
 
 ### 🚀 What I’m Up To
 
