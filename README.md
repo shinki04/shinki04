@@ -3,12 +3,12 @@
 I'm a passionate **self-taught developer** who loves solving real problems with code.  
 
 ### 🚀 What I’m Up To
-
+<!-- 
 - 🔭 Working on: A full-featured e-commerce web app (cart, filter, auth, dashboard...).
-- 🌱 Learning: Node.js, MongoDB, Data Structures & Algorithms to become a full-stack developer.
+- 🌱 Learning: Node.js, MongoDB, Data Structures & Algorithms to become a full-stack developer. -->
 - 👯 Looking to collaborate on: Small real-world projects or open-source contributions.
 - 🤔 Looking for help with: System design and scalable architecture for large apps.
-- 💬 Ask me about: Building things from scratch as a self-learner or deploying fullstack apps.
+- 💬 Ask me about: Building things from scratch as a self-learner.
 - 📫 Reach me at: hieutran1142004@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I learn best by doing — most of my projects solve real needs I encounter.
